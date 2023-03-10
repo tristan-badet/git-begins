@@ -1,0 +1,7 @@
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+
+$ git push origin [branch name]
+
+$ git push -u origin [branch name]
+
+$ git push
