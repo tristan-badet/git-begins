@@ -5,3 +5,5 @@ $ git push origin [branch name]
 $ git push -u origin [branch name]
 
 $ git push
+
+$ git pull
